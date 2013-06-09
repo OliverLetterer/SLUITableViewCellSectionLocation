@@ -12,7 +12,7 @@ SLUITableViewCellSectionLocation exposes the new public interface
 @end
 ```
 
-which informs you about section location changes.
+which informs you about section location changes. Check our [this blog post](http://sparrow-labs.github.io/2013/06/09/some_private_goodness.html) for more.
 
 ## License
 
